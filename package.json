@@ -21,7 +21,7 @@
   "homepage": "https://github.com/dhvanesh97/Assignment_2#readme",
   "dependencies": {
     "Babel": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.12.0"
   },
   "devDependencies": {
